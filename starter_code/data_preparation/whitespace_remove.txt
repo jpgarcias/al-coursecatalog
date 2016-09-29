@@ -4,3 +4,5 @@
 html-minifier catalog.html --collapse-whitespace --minify-js --minify-css -o catalog_clean.html
 
 html-minifier sample_whitespace.html --collapse-whitespace --minify-js --minify-css -o sample_clean.html
+
+html-minifier catalog.html --collapse-whitespace --minify-js --minify-css -o catalog_clean.html
